@@ -1,0 +1,6 @@
+﻿  PipenomeadaClient.cpp
+C:\Users\127793\source\repos\PipenomeadaClient\PipenomeadaClient\PipenomeadaClient.cpp(39,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\127793\source\repos\PipenomeadaClient\PipenomeadaClient\PipenomeadaClient.cpp(45,6): warning C4267: 'argument': conversion from 'size_t' to 'DWORD', possible loss of data
+C:\Users\127793\source\repos\PipenomeadaClient\PipenomeadaClient\PipenomeadaClient.cpp(18,11): warning C4101: 'dwRead': unreferenced local variable
+C:\Users\127793\source\repos\PipenomeadaClient\PipenomeadaClient\PipenomeadaClient.cpp(17,10): warning C4101: 'buffer': unreferenced local variable
+  PipenomeadaClient.vcxproj -> C:\Users\127793\source\repos\PipenomeadaClient\x64\Debug\PipenomeadaClient.exe
